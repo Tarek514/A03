@@ -44,4 +44,25 @@ GitHub is where you can store various files and even if you make changes to thos
 * File location should be: C:\Program Files\Git\bin\git.exe
 
 
+# Glossary 
+* **Branch**: This is basically a copy of your main work and once you have something that you want to update to the main branch, you can simply merge.
+* **Clone**: This is a copy of your remote project where you can edit any files that fall under the project and then later push the changes to your repository
+* **Commit**: This allows you to save the changes that you made to the project.
+* **Fetch**: This allows you to download files to your local repository
+* **GIT**: An open-source program that allows you to see any changes that you made to your project in GitHub.
+* **GitHub**: A cloud-based service that allows developers to store and manage their codes
+* **Merge**: Allows you to take the changes you made from one file to another
+* **Merge** Conflict: This happens when there are different edits in the same file being made such as different code for the same line
+* **Push**: Sends whatever you committed to your repository
+* **Pull**: Allows you to get the changes that have been made to a remote file
+* **Remote**: Allows you to share a repository with a group of people and exchange changes
+* **Repository**: A place where you or a group of people can store files and view changes made to those files. 
 
+
+# Reference
+* https://docs.github.com/en/get-started/quickstart/github-glossary
+* IntroToGitHub Presentation
+* Extra Installation Instructions PDF
+* https://git-scm.com/downloads
+* https://github.com/join
+* https://www.jetbrains.com/community/education/#students
