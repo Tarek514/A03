@@ -28,3 +28,20 @@
 25. The file should be in your GitHub repository 
 26. If you make any changes in WebStorm, you can commit through Git→ commit and then Git→ push which will add the changes to your GitHub.
 
+
+# Using Git
+GIT: An open-source program that allows you to see any changes that you made to your project in GitHub. There are many commands that you can use in this program that allows developers to manage their project.
+* Go to https://git-scm.com/downloads
+* Download the latest version
+
+# Using GitHub
+GitHub is where you can store various files and even if you make changes to those files, you can simply commit and push on Git via web storm to add those changes to the file in your GitHub repository.
+* Go to https://github.com/join and make an account
+* Start WebStorm
+* Go to settings by clicking ctrl+alt+S
+* Click on version control found on the left side and go to Git
+* Click Test to connect WebStorm to Git
+* File location should be: C:\Program Files\Git\bin\git.exe
+
+
+
